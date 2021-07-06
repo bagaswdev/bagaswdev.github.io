@@ -1,6 +1,6 @@
 # bagaswdev.github.io
 
-Selama datang :)
+Selamat datang :)
 
 Ini adalah halaman pribadi saya yang berisi menu :
 
